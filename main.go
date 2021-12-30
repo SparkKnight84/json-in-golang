@@ -59,8 +59,8 @@ func jsonStringToGoType() {
     		"title": "Title 1",
     		"url": "Url 1",
     		"channel": {
-      		"name": "Channel Name 1",
-      		"url": "Channel Url 1"
+      			"name": "Channel Name 1",
+      			"url": "Channel Url 1"
     		}
   	}`)
 
